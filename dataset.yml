@@ -1,0 +1,6 @@
+path: ../data
+train: images
+val: images
+
+nc: 2
+names: ['Ball', 'Ball On Left','Ball on Right', 'Player', 'Player on Left', 'Player on Right', 'Table']
